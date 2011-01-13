@@ -1,0 +1,4 @@
+This README is here to make sure the ebin directory remains as part of the
+repository, otherwise this project's Makefile misbehaves.  Yes, this could 
+be better.
+
